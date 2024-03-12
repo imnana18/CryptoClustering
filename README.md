@@ -27,13 +27,16 @@ Downloaded essential files from the [Module 19 Challenge files]([#](https://stat
    
    ![Screenshot 2024-03-12 at 17 21 01](https://github.com/imnana18/CryptoClustering/assets/147445115/4bb4e8ee-1648-43a8-a75c-4b39e51c4ee0)
 
-3. Considered the question: What is the optimal value for k?
+3. Found optimal value of k as 4. 
 
 ## K-means Clustering (Original Scaled Data)
 
 1. Initialized the K-means model with the determined optimal value for k.
 2. Fitted the K-means model to the original scaled DataFrame.
 3. Predicted clusters and crafted a visually appealing scatter plot using hvPlot.
+
+   ![Screenshot 2024-03-12 at 17 20 44](https://github.com/imnana18/CryptoClustering/assets/147445115/1b8840b7-3aa0-46ea-9609-c6b01b2a71a6)
+
 
 ## Principal Component Analysis (PCA)
 
