@@ -17,7 +17,7 @@ Downloaded essential files from the [Module 19 Challenge files](https://static.b
 ## Data Preparation and Exploration
 
 - Loaded the cryptocurrency market data from `crypto_market_data.csv` into a DataFrame.
-- Conducted a comprehensive analysis of summary statistics and plotted the data for inspection.
+- Conducted a comprehensive analysis of summary statistics and plotted the data for inspection:
 
   ![Screenshot 2024-03-12 at 17 21 20](https://github.com/imnana18/CryptoClustering/assets/147445115/6ced2a9a-157d-4d0b-991b-6385e89295a8)
 
