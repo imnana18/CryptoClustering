@@ -33,7 +33,7 @@ Downloaded essential files from the [Module 19 Challenge files]([#](https://stat
 
 1. Initialized the K-means model with the determined optimal value for k.
 2. Fitted the K-means model to the original scaled DataFrame.
-3. Predicted clusters and crafted a visually appealing scatter plot using hvPlot.
+3. Predicted clusters and crafted a visually appealing scatter plot using hvPlot:
 
    ![Screenshot 2024-03-12 at 17 20 44](https://github.com/imnana18/CryptoClustering/assets/147445115/1b8840b7-3aa0-46ea-9609-c6b01b2a71a6)
 
@@ -42,22 +42,34 @@ Downloaded essential files from the [Module 19 Challenge files]([#](https://stat
 
 1. Conducted Principal Component Analysis on the original scaled DataFrame, condensing features to three principal components.
 2. Explored the explained variance to ascertain the information encapsulated in each principal component.
-3. Addressed the question: What is the cumulative explained variance of the three principal components?
+3. Found the cumulative explained variance of the three principal components.
 4. Constructed a refined DataFrame with PCA data, with "coin_id" serving as the index.
 
 ## Identifying Optimal Clustering (PCA Data)
 
-1. Leveraged the elbow method on the PCA data to pinpoint the optimal value for k.
-2. Reflectively answered the query: What is the most fitting value for k when utilizing PCA data? Does it diverge from the optimal k value obtained with the original data?
+1. Leveraged the elbow method on the PCA data to pinpoint the optimal value for k:
+   
+   ![Screenshot 2024-03-12 at 17 20 18](https://github.com/imnana18/CryptoClustering/assets/147445115/3adf42fd-56e7-4225-aa83-00289efd5807)
+
 
 ## K-means Clustering (PCA Data)
 
 1. Instantiated the K-means model with the determined optimal value for k.
 2. Executed model fitting using the PCA data.
-3. Predicted clusters and adorned the findings with an informative scatter plot using hvPlot.
+3. Predicted clusters and adorned the findings with an informative scatter plot using hvPlot:
+
+   ![Screenshot 2024-03-12 at 17 19 57](https://github.com/imnana18/CryptoClustering/assets/147445115/f2736994-e9b7-4214-81aa-d0ed0662fb75)
+
 
 ## Insightful Reflection
 
-Delved into the impact of using fewer features in the clustering process using K-Means, unraveling the nuanced subtleties within the data.
+Created composite plots to compare hvPlots of original vs. PCA data:
 
-For a more immersive exploration of the project intricacies and outcomes, please refer to the detailed notebook (`Crypto_Clustering.ipynb`).
+![Screenshot 2024-03-12 at 17 19 36](https://github.com/imnana18/CryptoClustering/assets/147445115/0bf2d85f-4074-4abd-9407-8d79972fa73e)
+
+![Screenshot 2024-03-12 at 17 19 07](https://github.com/imnana18/CryptoClustering/assets/147445115/873a176e-349c-4177-976c-ee6161fd0df7)
+
+
+Answered the following question for reflection: Based on visually analyzing the cluster analysis results, what’s the impact of using fewer features to cluster the data by using K-means?
+
+For a more immersive exploration of the project outcomes and reflections, please refer to the detailed notebook `Crypto_Clustering.ipynb`.
