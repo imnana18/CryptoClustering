@@ -72,4 +72,4 @@ Created composite plots to compare hvPlots of original vs. PCA data:
 
 Answered the following question for reflection: Based on visually analyzing the cluster analysis results, what’s the impact of using fewer features to cluster the data by using K-means?
 
-For a more immersive exploration of the project outcomes and reflections, please refer to the detailed notebook `Crypto_Clustering.ipynb`.
+Please refer to `Crypto_Clustering.ipynb` for detailed code, analysis, visualizations, and summary. 
