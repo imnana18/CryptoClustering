@@ -8,7 +8,7 @@ Note that hvplot visualizations fail to load in GitHub but can be viewed in Visu
 
 ## Project Files
 
-Downloaded essential files from the [Module 19 Challenge files]([#](https://static.bc-edx.com/data/dl-1-2/m19/lms/starter/Starter_Code.zip)) external link.
+Downloaded essential files from the [Module 19 Challenge files][#](https://static.bc-edx.com/data/dl-1-2/m19/lms/starter/Starter_Code.zip).
 
 ## Data Preparation and Exploration
 
