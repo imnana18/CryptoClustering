@@ -23,7 +23,8 @@ Downloaded essential files from the [Module 19 Challenge files]([#](https://stat
 
 ## Determining Optimal Clustering (Original Scaled DataFrame)
 
-1. Applied the elbow method to discern the most suitable value for k (number of clusters).
+1. Applied the elbow method to discern the most suitable value for k (number of clusters):
+   
    ![Screenshot 2024-03-12 at 17 21 01](https://github.com/imnana18/CryptoClustering/assets/147445115/4bb4e8ee-1648-43a8-a75c-4b39e51c4ee0)
 
 3. Considered the question: What is the optimal value for k?
