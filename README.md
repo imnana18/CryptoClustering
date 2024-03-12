@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The main goal of this project is to utilize both `Python` and `unsupervised learning techniques` to predict the influence of 24-hour or 7-day price changes on cryptocurrencies. The following sections provide a comprehensive overview of the steps taken to achieve the project's objectives.
+The main goal of this project was to utilize both `Python` and `unsupervised learning techniques` to predict the influence of 24-hour or 7-day price changes on cryptocurrencies. The following sections provide a comprehensive overview of the steps taken to achieve the project's objectives.
 
 ## Project Map
 
